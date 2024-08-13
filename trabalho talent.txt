@@ -1,0 +1,18 @@
+entrada de dados
+
+
+gastos dinheiro 
+gastos debito
+gastos Credito
+
+
+processamento
+valor recebido dentro do mês
+menos pagamentos da entrada de dados
+
+
+
+
+saida de dados
+
+saldo final
